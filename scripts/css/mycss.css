@@ -1,0 +1,22 @@
+tr{
+	height:110px;
+}
+td{
+	font-size:4.5em;
+	
+	background:#F0F;
+	border:1px #000;
+	width:110px;
+}
+#gtable{
+	background-color:#0000FF;
+	width:330px;
+	height:330px;
+	text-align:center;
+}
+.done{
+	background-color:#0C9 !important;
+	color:#FF0;
+}
+.X{background-color:#009900;}
+.O{background-color:#FF0000;}
